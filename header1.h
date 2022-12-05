@@ -7,3 +7,10 @@
 void leap(int ); //file3
 void tables(int );//file2
 void armstrong(int );//file1
+struct person
+{
+	int age;
+	int number;
+	char* name;
+};
+

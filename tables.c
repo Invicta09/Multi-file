@@ -11,5 +11,5 @@ void tables(int a)
     {
         printf("%d X %d = %d\n",a,i,a*i);
     }
-    leap(primecheck);//defined in header file
+    leap(leapcheck);//defined in header file
 }
